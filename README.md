@@ -21,3 +21,7 @@ python3 datastore_api.py
 
 First, run `train_classifier.ipynb` either locally or on a remote python kernel.
 Second, you can run `inference_classifier.ipynb` to test the model you just trained.
+
+## Google Colab
+
+A Google Colab implementation of this example is available [here](https://drive.google.com/file/d/1yVN2XMforQkjqFcpLtu3DCVM-nzHuxiz/view?usp=sharing).
