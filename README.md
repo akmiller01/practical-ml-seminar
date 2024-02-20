@@ -26,4 +26,4 @@ Last, if you want to experiment with zero-shot classification, `zero_shot.ipynb`
 
 ## Google Colab
 
-A Google Colab implementation of this example is available [here](https://drive.google.com/file/d/1yVN2XMforQkjqFcpLtu3DCVM-nzHuxiz/view?usp=sharing).
+A Google Colab implementation of this example is available [here for the pre-trained classifier](https://drive.google.com/file/d/1yVN2XMforQkjqFcpLtu3DCVM-nzHuxiz/view?usp=sharing). and [here for the zero-shot classifier](https://colab.research.google.com/drive/1-Pt_xV5RVmDYwECggwLdPGy0X_nv4zHu?usp=sharing).
